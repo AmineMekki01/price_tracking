@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pymongo
+requests
+beautifulsoup4
+selenium
+schedule
+sqlalchemy
+psycopg2
+ensure
+python-box
+pyYaml
+types-pyYaml
+pytest
