@@ -1,5 +1,6 @@
 """
-This file contains the dataclasses for the configuration entities.
+File : backend/priceTracker/entity/config_entity.py
+Description : This file contains the dataclasses for the configuration entities.
 """
 from dataclasses import dataclass
 

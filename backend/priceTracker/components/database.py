@@ -1,5 +1,6 @@
-""" 
-This module is responsible for creating the database connection and session.
+"""
+File : backend/priceTracker/components/database.py
+Description : This module is responsible for creating the database connection and session.
 """
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base

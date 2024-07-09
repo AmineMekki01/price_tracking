@@ -12,3 +12,4 @@ python-box
 pyYaml
 types-pyYaml
 pytest
+redis
